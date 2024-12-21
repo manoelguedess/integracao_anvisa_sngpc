@@ -48,4 +48,31 @@ by: Ronilson Rodrigues
 
 
 
+<h1>Para melhorar</h1>
+
+<h2>Inventário de Medicamentos<h2>>
+Gestão completa do inventário de medicamentos e insumos da drogaria. Com um único clique o inventário é confirmado e transmitido automaticamente para a Anvisa. As informações do inventário e os seus lotes podem ser consultados quando necessário. As principais funcionalidades para gestão do inventário são:
+<ul>
+  <li>Criação e alteração do inventário.</li>  
+  <li>Confirmação e transmissão do inventário.</li>  
+  <li>Controle de estoque.</li>  
+  <li>Fechamento e troca do responsável técnico.</li>  
+  <li>Inclusão de inconsistência de lotes.</li>  
+</ul>  
+
+<h2>Movimentação Entrada e Saída</h2>
+Facilidade no lançamento das notas fiscais de entrada, vendas, perdas e transferências de medicamentos e insumos. As principais funcionalidades para gestão de movimentação de entrada e saída são:
+
+<ul>
+<li>Lançamento de notas de entradas.</li>
+<li>Lançamento de vendas.</li>
+<li>Lançamento de perdas e transferências.</li>
+<li>Cadastro de compradores, pacientes e prescritores.</li>
+</ul>
+
+
+https://sngpc.one/funcionalidades/
+
+https://sngpc.one/app/v1/docs#/default/
+
 
